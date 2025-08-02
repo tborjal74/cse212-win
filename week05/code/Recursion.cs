@@ -155,7 +155,6 @@ public static class Recursion
         WildcardBinary(prefix + '0' + suffix, results);
         WildcardBinary(prefix + '1' + suffix, results);
     }
-
     /// <summary>
     /// Use recursion to insert all paths that start at (0,0) and end at the
     /// 'end' square into the results list.
