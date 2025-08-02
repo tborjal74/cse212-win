@@ -13,8 +13,6 @@ public class Maze
         this.Height = height;
         this.Data = data;
     }
-    // test comment
-    //test comment 2
     /// <summary>
     /// #############
     /// # Problem 5 #
